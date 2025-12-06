@@ -12,7 +12,7 @@ Smart parking gate with vehicle detection (YOLOv8), license plate OCR (EasyOCR),
 3. Run: `python detect_car_and_read_number.py`
 
 ## Hardware
-- ESP32 or ESP32-CAM
+- ESP32 or ESP32-CAM or External WebCam
 - Two USB cameras (ENTRY, EXIT)
 - Servo/gate mechanism controlled by ESP32
 

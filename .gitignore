@@ -1,0 +1,18 @@
+# YOLO outputs and large files
+runs/
+*.pt
+data.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual envs
+venv/
+env/
+.venv/
+
+# Logs and temp images
+parking_log.csv
+test_images/
+ocr_test_images/

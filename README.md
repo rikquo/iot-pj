@@ -21,7 +21,7 @@ Smart parking gate with vehicle detection (YOLOv8), license plate OCR (EasyOCR),
 - Price: 500 Kyats per block
 
 ## Files
-- `twocam_car_and_number_detection_final_code` — main script
+- `twocam_car_and_number_detection_final_code.py` — main script
 - `runs/car_yolo_gpu/weights/best.pt` — YOLO model
 - `parking_log.csv` — event log
 
